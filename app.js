@@ -1,4 +1,4 @@
-const victoryPoint = 20;
+const victoryPoint = 25;
 
 var scores, roundScore, activePlayer, gamePlaying;
 
